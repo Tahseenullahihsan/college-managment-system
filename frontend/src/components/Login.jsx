@@ -35,7 +35,7 @@ const Login = () => {
     <div className="bg-white h-[100vh] w-full flex justify-between items-center">
       <img
         className="w-[60%] h-[100vh] object-cover"
-        src="https://img.freepik.com/free-vector/college-background-with-mortarboard_23-2147903630.jpg"
+        src="https://images.unsplash.com/photo-1462536943532-57a629f6cc60?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
         alt=""
       />
       <div className="w-[40%] flex justify-center items-start flex-col pl-8">
